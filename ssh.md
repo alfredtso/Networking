@@ -54,7 +54,8 @@ UsePAM no
 
 
 ## To Do 
-[ ] ssh into tmux server on remote server to work on the same session
+[x] ssh into tmux server on remote server to work on the same session
+	- tmux attach -t $YOURSESSION
 [ ] use ssh config file on client 
 [ ] learn about different type of keygen 
 
